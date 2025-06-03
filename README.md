@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a passionate engineer with deep experience in backend 
 ## 💬 Let's Connect
 
 - 📫 Email: [kishankumarc9@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/kishankumarc)
+- 🔗 LinkedIn: [linkedin.com/in/kishankumarc](https://linkedin.com/in/kishankumarc)
 - 🌐 Portfolio: [portfolio](https://mrmaverick9119.github.io)
 
 ---
